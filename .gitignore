@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/Debug/
+.gitignore
+/ipch/
+/.vs/
+FormulaCalculator.sln
+FormulaCalculator.VC.db
+FormulaCalculator/Debug/
